@@ -36,6 +36,8 @@ python scraper.py "0001166559"
 To run with multiple tickers run the following with tickers.txt in the directory:
 ```
 python run.py
+
+bash run.sh
 ```
 
 '.tsv' file(s) will be created in the root directory with the CIK in the filename(s).
