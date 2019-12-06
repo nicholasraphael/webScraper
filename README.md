@@ -26,11 +26,11 @@ takehome.py takes one argument. A ticker "Gates Foundation | 0001166559" or a CI
 
 Run the following command:
 ```
-python takehome.py "Gates Foundation | 0001166559"
+python scraper.py "Gates Foundation | 0001166559"
 ```
 or
 ```
-python takehome.py "0001166559"
+python scraper.py "0001166559"
 ```
 
 To run with multiple tickers run the following with tickers.txt in the directory:
